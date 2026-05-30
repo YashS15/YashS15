@@ -58,15 +58,6 @@ Currently, I am focused on strengthening my engineering skills, contributing to 
 - Reach Expert-level problem-solving skills
 - Work on technology that reaches millions of users worldwide
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashS15&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashS15&layout=compact&theme=github_dark)
-
----
 
 ## 📫 Connect With Me
 
